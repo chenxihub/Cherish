@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Cherish
+title: About That Girl
 subtitle:
 description:
 keywords:
 author: Chenxi
-language: javascript
+language:
 timezone:
 
 # URL
@@ -78,4 +78,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type:
