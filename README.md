@@ -1,2 +1,1 @@
-# Cherish
-Cherish Self
+![](static/font_white_logo.png)
