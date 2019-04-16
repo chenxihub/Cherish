@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: About That Girl
-subtitle:
-description:
-keywords:
+title: Cherish 小馆
+subtitle: Small is beautiful,Small is powerful
+description: Small is beautiful,Small is powerful
+keywords: Chenxi,Small is beautiful,Small is powerful
 author: Chenxi
-language:
+language: zh
 timezone:
 
 # URL
@@ -73,9 +73,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
+#theme: landscape
+theme: diaspora
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/chenxihub/cherish.github.io.git
