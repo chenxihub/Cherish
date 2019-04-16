@@ -1,1 +1,1 @@
-![](static/font_white_logo.png)
+![](static/white_logo.png)
