@@ -8,12 +8,12 @@ subtitle:
 description:
 keywords:
 author: Chenxi
-language:
+language: javascript
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://chenxihub.github.io/cherish.github.io/
+url: https://github.com/chenxihub/cherish.github.io.git
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
